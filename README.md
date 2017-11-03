@@ -12,3 +12,7 @@ npm install
 ```
 node app.js
 ```
+4º Configuração do Banco
+
+* Faça dump do arquivo users.sql
+* Configure suas informações do MySQL no app.js
