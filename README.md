@@ -2,7 +2,7 @@
 
 1º passo: clone o repositório
 
-2º passo: Instalar as dependencias necessárias
+2º passo: Instalar as dependencias necessárias no arquivo baixado
 
 ```
 npm install
