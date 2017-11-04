@@ -7,12 +7,14 @@
 ```
 npm install
 ```
-3º passo: Rodar o servidor
+3º Configuração do Banco
+
+* Faça dump do arquivo users.sql
+* Configure suas informações do MySQL no app.js
+
+4º passo: Rodar o servidor
 
 ```
 node app.js
 ```
-4º Configuração do Banco
 
-* Faça dump do arquivo users.sql
-* Configure suas informações do MySQL no app.js
